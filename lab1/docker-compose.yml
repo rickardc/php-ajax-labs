@@ -1,0 +1,7 @@
+services:
+  web:
+    image: php:7.2-apache
+    volumes:
+      - ./app:/var/www/html
+    ports:
+      - 8080:80

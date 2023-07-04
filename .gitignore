@@ -1,0 +1,13 @@
+.pdf
+.DS_Store
+.log
+.env
+
+
+# Directories #
+*/*solution*/
+*/mysql/
+*/*.pdf
+*/.DS_Store
+*/.log
+*/.env
